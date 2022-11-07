@@ -2,7 +2,7 @@
 
 <div>
     • 💻📚 Aualmente Participando do Pragrama RSTI - Iniciativa SENAC RS TECH
-</div><div><div><p><a href="https://www.senacrs.com.br/hotsite/programarsti/index.php" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>Trilha 04 Desenvolvimento Python - 252h</div>
+</div><div><p><a href="https://www.senacrs.com.br/hotsite/programarsti/index.php" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>Trilha 04 Desenvolvimento Python - 252h</div>
   <div>• 👩‍🎓📚 Também sou estudante de ADS</div>
      
 <div><p><a href="https://instagram.com/dihmotta_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
