@@ -1,4 +1,9 @@
-## Bem-vindo(a) ao perfil Diana Motta 
+## Bem-vindo(a) ao perfil Diana Motta ❤️
+
+💼 Sou estudante de ADS 
+
+
+ 
  <div>
    <a href="https://github.com/DIANAMOTTA">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIANAMOTTA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
