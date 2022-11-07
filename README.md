@@ -4,7 +4,8 @@
     • 💻📚 Aualmente Participando do Pragrama RSTI - Iniciativa SENAC RS TECH
 <div style="display: inline_block"><br>
   <a href="https://www.senacrs.com.br/hotsite/programarsti/index.php" target="_blank"><img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">Trilha 04 Desenvolvimento Python - 252h
-• 👩‍🎓📚 Também sou estudante de ADS</div>
+
+<div>• 👩‍🎓📚 Também sou estudante de ADS</div>
      
 <div><p><a href="https://instagram.com/dihmotta_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diana-motta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p></div>
