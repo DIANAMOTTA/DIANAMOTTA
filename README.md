@@ -5,7 +5,7 @@
 </div><div><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>Trilha 04 Desenvolvimento Python - 252h</div>
   <div>• 👩‍🎓📚 Também sou estudante de ADS</div>
      
-    <a href="https://github.com/DIANAMOTTA">
+ <a href="https://github.com/DIANAMOTTA">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIANAMOTTA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIANAMOTTA&layout=compact&langs_count=6&theme=tokyonight"/></div>
 
