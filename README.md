@@ -2,8 +2,7 @@
 
 <div>
     <p>📚 Aualmente Participando do Pragrama RSTI - Iniciativa SENAC RS TECH</p>
-</div>
- <br><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <br>Trilha 04 Desenvolvimento Python - 252h
+</div><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>Trilha 04 Desenvolvimento Python - 252h
 <div>📚 Também sou estudante de ADS</div>
 💼 
 
