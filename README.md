@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil Diana Motta ❤️
+## Bem-vindo(a) ao perfil Diana Motta 💖
 
 💼 Sou estudante de ADS 
 <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
