@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil Diana Motta 👩‍🎓☕
+## Bem-vindo(a) ao perfil Diana Motta 👩‍🎓☕📚
 
 <div>
     • 💻📚 Aualmente Participando do Pragrama RSTI - Iniciativa SENAC RS TECH
