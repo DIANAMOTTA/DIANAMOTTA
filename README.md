@@ -1,9 +1,11 @@
 ## Bem-vindo(a) ao perfil Diana Motta 💖
 
+📚 Aualmente Participando do Pragrama RSTI - Iniciativa SENAC TECH
+<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>Trilha 04 Desenvolvimento Python - 252h
 💼 Sou estudante de ADS 
-<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-Participando do Pragrama RSTI - Iniciativa SENAC TECH
-<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Trilha 04 Desenvolvimento Python - 252h
+
+
+<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
  <div>
    <a href="https://github.com/DIANAMOTTA">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DIANAMOTTA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
