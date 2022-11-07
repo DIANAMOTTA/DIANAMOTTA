@@ -3,7 +3,7 @@
 <div>
     <p>📚 Aualmente Participando do Pragrama RSTI - Iniciativa SENAC RS TECH</p>
 </div>
-<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>Trilha 04 Desenvolvimento Python - 252h
+ <br><img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <br>Trilha 04 Desenvolvimento Python - 252h
 <div>📚 Também sou estudante de ADS</div>
 💼 
 
@@ -20,8 +20,6 @@
         
    
 </div>
- 
- <br>
  
  <div> 
   <a href="https://instagram.com/dihmotta_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
