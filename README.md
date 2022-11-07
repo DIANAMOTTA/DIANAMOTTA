@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil Diana Motta 👩‍🎓☕📚
 
 <div>
-    • 💻📚👇👇 Atualmente Participando do Pragrama RSTI - Iniciativa SENAC RS TECH👇👇</div>
+    • 📚👇👇 Atualmente Participando do Pragrama RSTI - Iniciativa SENAC RS TECH👇👇</div>
 <div style="display: inline_block"><br>
   <a href="https://www.senacrs.com.br/hotsite/programarsti/index.php" target="_blank"><img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">Trilha 04 Desenvolvimento Python - 252h</div>
 
