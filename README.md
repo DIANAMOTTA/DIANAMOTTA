@@ -5,7 +5,12 @@
 <div style="display: inline_block"><br>
   <a href="https://www.senacrs.com.br/hotsite/programarsti/index.php" target="_blank"><img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">Trilha 04 Desenvolvimento Python - 252h</div>
 
-<div>• 👩‍🎓📚 meta " NUNCA DESISTIR"</div>
+<div>• 👩‍🎓📚 Olá, atualmente atuo como testador de software no Seguimento Financeiro.
+Estou inscrita no curso de Desenvolvedor BackEnd através do projeto RSTI - SENAC RS, bolsa de estudos a qual foi concedida pela empresa South System . Em conjunto também estou matriculada no curso CC50 de Harvard pela fundação Estudar. 
+Se desafiar e estar em constante busca de conhecimento faz parte da minha trajetória profissional. 
+Tive grandes oportunidades de poder atuar em grandes empresas como a Atos Origin, PUC-RS que me deram ótimas oportunidades de crescimento e que com toda certeza contribuíram para eu ser profissional que sou. 
+Estou no último semestre do tecnólogo em Análise e Desenvolvimento de sistemas e pretendo seguir me especializando em duas áreas que gosto muito, qualidade de software e programação BackEnd. 
+Estou disponível para novas experiências, troca de conhecimento, novos desafios e oportunidades. :D "</div>
 <br>    
 <div><p><a href="https://instagram.com/dihmotta_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diana-motta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p></div>
