@@ -1,4 +1,6 @@
 ## Bem-vindo(a) ao perfil Diana Motta 👩‍🎓☕📚
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 
 <div>
     • 📚👇👇 Atualmente bolsista do Pragrama RSTI - Iniciativa SENAC RS TECH👇👇</div>
