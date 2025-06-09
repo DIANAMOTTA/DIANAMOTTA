@@ -4,13 +4,14 @@
 
 <div>
     • 👩‍💻Olá, eu sou a Diana</div>
-<div style="display: inline_block"><br>
-  <a href="https://www.senacrs.com.br/hotsite/programarsti/index.php" target="_blank"><img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">Trilha 04 Desenvolvimento Python - 252h</div>
 
 <div>• 👩‍🎓📚 Estou me aprimorando na área de Desenvolvimento Front-End, pois me identifico muito com esse universo criativo e técnico, onde posso unir lógica, design e boas práticas para construir experiências mais acessíveis e funcionais.
 Tenho me dedicado ao estudo constante de tecnologias como HTML, CSS, React e Node.js.
-Sou graduanda em Engenharia de Software (UniLaSalle). 
- "</div>
+Sou graduanda em Engenharia de Software (UniLaSalle).
+<div>"Criei este portfólio para registrar meu progresso na área de desenvolvimento front-end e exercitar meus conhecimentos por meio de pequenos projetos práticos, que refletem meu aprendizado contínuo e dedicação à área."👇</div>
+
+<div style="display: inline_block"><br>
+<a href="https://dianamotta.github.io/portifolio_diana_v1/" target="_blank"></a></div>"</div>
 <br>    
 <a href="https://www.linkedin.com/in/diana-motta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p></div>
 
