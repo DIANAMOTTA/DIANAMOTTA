@@ -7,8 +7,10 @@
 
 <div>• 👩‍🎓📚 Estou me aprimorando na área de Desenvolvimento Front-End, pois me identifico muito com esse universo criativo e técnico, onde posso unir lógica, design e boas práticas para construir experiências mais acessíveis e funcionais.
 Tenho me dedicado ao estudo constante de tecnologias como HTML, CSS, React e Node.js.
-Sou graduanda em Engenharia de Software (UniLaSalle).
-<div>"Criei este portfólio para registrar meu progresso na área de desenvolvimento front-end e exercitar meus conhecimentos por meio de pequenos projetos práticos, que refletem meu aprendizado contínuo e dedicação à área."👇</div>
+
+<p>Sou graduanda em Engenharia de Software (UniLaSalle).
+<br>
+<div>"👇Criei este portfólio para registrar meu progresso na área de desenvolvimento front-end e exercitar meus conhecimentos por meio de pequenos projetos práticos, aplicando conceitos que venho estudando. Tenho utilizado o Visual Studio Code como ambiente principal de desenvolvimento e, para me habituar ao fluxo profissional, estou praticando versionamento com Git e realizando commits seguindo boas práticas."👇</div>
 
 <div style="display: inline_block"><br>
 <a href="https://dianamotta.github.io/portifolio_diana_v1/" target="_blank"></a></div>"</div>
